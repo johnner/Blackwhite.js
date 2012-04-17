@@ -1,8 +1,5 @@
-Blackwhite is a library that shows your web page in grayscale view.
-It's parses CSS rules and replace colors with grayscale equivalent.
+It scans CSS rules and change colors to grayscale equivalent.
 
-Script also convert images on page using canvas.
+Script also converts images on page using canvas.
 
-Tested in FF > 4.0 and Chrome
-Works not so cool in other browsers yet
-
+Tested in FF > 4.0, Chrome > 17
